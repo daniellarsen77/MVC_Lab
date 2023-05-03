@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\bin\Debug\net6.0\MVC_Lab.exe
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\bin\Debug\net6.0\MVC_Lab.deps.json
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\bin\Debug\net6.0\MVC_Lab.runtimeconfig.json
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\bin\Debug\net6.0\MVC_Lab.dll
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\bin\Debug\net6.0\MVC_Lab.pdb
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.dll
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\refint\MVC_Lab.dll
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.pdb
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\MVC_Lab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\MVC_Lab\MVC_Lab\obj\Debug\net6.0\ref\MVC_Lab.dll
